@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\day9\\Solution2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97A60391-9D1D-4B5C-B05F-4489D58D439D}|DbFirstDemo\\DbFirstDemo.csproj|d:\\.net\\day9\\solution2\\dbfirstdemo\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A60391-9D1D-4B5C-B05F-4489D58D439D}|DbFirstDemo\\DbFirstDemo.csproj|solutionrelative:dbfirstdemo\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A60391-9D1D-4B5C-B05F-4489D58D439D}|DbFirstDemo\\DbFirstDemo.csproj|d:\\.net\\day9\\solution2\\dbfirstdemo\\models\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A60391-9D1D-4B5C-B05F-4489D58D439D}|DbFirstDemo\\DbFirstDemo.csproj|solutionrelative:dbfirstdemo\\models\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A60391-9D1D-4B5C-B05F-4489D58D439D}|DbFirstDemo\\DbFirstDemo.csproj|d:\\.net\\day9\\solution2\\dbfirstdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A60391-9D1D-4B5C-B05F-4489D58D439D}|DbFirstDemo\\DbFirstDemo.csproj|solutionrelative:dbfirstdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DB.cs",
+              "DocumentMoniker": "D:\\.NET\\day9\\Solution2\\DbFirstDemo\\DB.cs",
+              "RelativeDocumentMoniker": "DbFirstDemo\\DB.cs",
+              "ToolTip": "D:\\.NET\\day9\\Solution2\\DbFirstDemo\\DB.cs*",
+              "RelativeToolTip": "DbFirstDemo\\DB.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:47:02.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\.NET\\day9\\Solution2\\DbFirstDemo\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DbFirstDemo\\Models\\Book.cs",
+              "ToolTip": "D:\\.NET\\day9\\Solution2\\DbFirstDemo\\Models\\Book.cs",
+              "RelativeToolTip": "DbFirstDemo\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:33:29.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksContext.cs",
+              "DocumentMoniker": "D:\\.NET\\day9\\Solution2\\DbFirstDemo\\Models\\BooksContext.cs",
+              "RelativeDocumentMoniker": "DbFirstDemo\\Models\\BooksContext.cs",
+              "ToolTip": "D:\\.NET\\day9\\Solution2\\DbFirstDemo\\Models\\BooksContext.cs",
+              "RelativeToolTip": "DbFirstDemo\\Models\\BooksContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:16:11.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
