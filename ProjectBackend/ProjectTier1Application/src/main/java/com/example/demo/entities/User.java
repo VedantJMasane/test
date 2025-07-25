@@ -1,14 +1,22 @@
 package com.example.demo.entities;
 
 
+<<<<<<< HEAD
+=======
+import com.fasterxml.jackson.annotation.JsonIgnore;
+>>>>>>> 9da78b98eae938af67cb2a781247835f7984c78c
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+<<<<<<< HEAD
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
+=======
+import jakarta.persistence.OneToOne;
+>>>>>>> 9da78b98eae938af67cb2a781247835f7984c78c
 import jakarta.persistence.Table;
 
 @Entity
@@ -31,6 +39,7 @@ public class User {
 	@Column(name="contact_no")
 	 String contact_no;
 	
+<<<<<<< HEAD
 	@ManyToOne
 	@JoinColumn(name = "role_id")
 	Role role_id;
@@ -102,6 +111,11 @@ public class User {
 	public void setRole_id(Role role_id) {
 		this.role_id = role_id;
 	}
+=======
+	 @OneToOne(mappedBy = "user")
+	 @JsonIgnore
+	 Customer customer;
+>>>>>>> 9da78b98eae938af67cb2a781247835f7984c78c
 	
 	
 }

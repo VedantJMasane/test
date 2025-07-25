@@ -14,10 +14,17 @@ public class UserService {
 	@Autowired
 	UserRepository userrepo;
 	
+<<<<<<< HEAD
 	public User getLogin(String username,String password)
 	{
 		User u;
 	    Optional<User> ol = userrepo.getLogin(username, password);
+=======
+	public User getLogin(String uid,String pwd)
+	{
+		User u;
+	    Optional<User> ol = userrepo.getLogin(uid, pwd);
+>>>>>>> 9da78b98eae938af67cb2a781247835f7984c78c
 	    
 	    try
 	    {
